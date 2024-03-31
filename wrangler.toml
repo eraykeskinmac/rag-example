@@ -10,7 +10,7 @@ database_id = "cc04870d-2a74-4d5e-a8bf-9dcb18658e35"
 
 [[vectorize]]
 binding = "VECTORIZE_INDEX"
-index_name = "rag-example-webinar-index"
+index_name = "rag-example-index"
 
 [ai]
 binding = "AI"
